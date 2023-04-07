@@ -12,3 +12,5 @@
 1. [x] [Reporting](reporting/)
 1. [ ] [Summary](summary/)
 
+
+[![Build status](https://ci.appveyor.com/api/projects/status/9kxwkqcfk73x612d?svg=true)](https://ci.appveyor.com/project/nsamoilov190/aqa-code2)
